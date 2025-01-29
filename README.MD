@@ -1,99 +1,23 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
+```markdown
+# Podcast Segurança Bancária
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
+## 📒 Descrição
+Os golpes bancários estão por toda parte, e qualquer um pode ser vítima. Este podcast descreve alguns dos golpes mais comuns e maneiras de evitá-los.
 
-<p align="center">
-    preview do podcast
-</p>
+## 🤖 Tecnologias Utilizadas
+* IA Generativa ChatGPT para texto e adaptação à linguagem falada
+* ElevenLabs para conversão Text-to-Speech
+* Leonardo AI para geração da imagem de capa do Podcast
+* CapCut para edição do áudio
+* MP3Tag para incluir a capa e informações de metadados
+* Podbeam para publicação do episódio de podcast.
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+## 🧐 Processo de Criação
+Utilizei o ChatGPT para produzir o texto do resumo e sua adaptação à linguagem de podcast, com abertura e encerramento. Em seguida utilizei o ElevenLabs para conversão do texto em fala usando uma voz masculina brasileira para a narração, com um tom descontraído e informal. Empreguei o Leonardo AI para a geração da imagem de capa do Podcast, uma vez que não consegui acesso gratuito ao Midjourney. Em seguida, usei o CapCut para adicionar efeitos sonoros no áudio. Na sequência, utilizei o MP3Tag para incluir as informações de metadados e a capa ao arquivo de podcast. Por fim, publiquei o episódio na Plataforma Podbeam.
 
-# Projeto Podcast Gerado por I.A.s
+## 🚀 Resultados
+O episódio apresenta alguns dos golpes mais comuns e maneiras de evitá-los. O resultado foi um áudio descontraído, cativante e informativo.
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+https://mcdn.podbean.com/mf/web/ja9e5r2kftdshw5v/Podcast_Seguran_a_Banc_ria_Dicas_para_n_o_cair_em_golpesaeu18.mp3
+https://alinegrodt.podbean.com/e/seguranca-bancaria/
+```
